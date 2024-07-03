@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @do1uknox
+- 👋 Hi, I’m @iamgeo 
 - 👀 I’m interested in coding and much more 
 - 🌱 I’m currently learning kali linux and rassberry pi
   
